@@ -4,8 +4,12 @@
 **/_download
 
 # File(s)
+*.chd
 *.lnk
 *.txt
+*.rar
+*.zip
+*.7z
 
 # Epic(s)
 icon_retroarch.png
