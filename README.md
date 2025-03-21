@@ -1,4 +1,4 @@
-![Logo RetroArch](_system/icon/icon_retroarch_200.png)
+![Logo RetroArch](_system/icon/icon_sonic.png)
 # Srxne/RETRO-LIBRARY
 > Repository : [https://github.com/Srxne/Retro-Library](https://github.com/Srxne/Retro-Library/)
 
